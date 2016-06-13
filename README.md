@@ -3,4 +3,6 @@
 
 
 - [GPSデータ gpx](https://github.com/gsc-aoyama/FieldTrip4GSC2016odawara/blob/master/FieldTrip2016-06-12_odawara.gpx)
+- [KMLデータ kmz](https://github.com/rinaaaoda/FieldTrip4GSC2016odawara/blob/master/%E5%B0%8F%E7%94%B0%E5%8E%9F.kmz)
+
 ![小田原](https://github.com/rinaaaoda/FieldTrip4GSC2016odawara/blob/master/%E5%B0%8F%E7%94%B0%E5%8E%9F.png?raw=true)
